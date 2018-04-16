@@ -1,11 +1,5 @@
 # MeteorDocker
-Scripts for deploying meteor with one command
-
-# scripts
-A lot of useful scripts
-
-# METEOR DEPLOYMENTS USING DOCKER
-## DEPLOYMENT
+Scripts for deploying meteor to docker instance with one command.
 
 ### STAND ALONE
 * To deploy to staging from the root of the app `bash path/to/deployitremote.sh`. It is critical that you invoke the script from the root folder of your app.
